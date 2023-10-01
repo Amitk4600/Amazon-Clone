@@ -6,7 +6,7 @@ This is a clone of the Amazon ecommerce website created using HTML and CSS. It i
 
 You can see a live demo of the Amazon clone here:
 
-![Amazon Clone Demo](insert_demo_image_url_here)
+![Amazon Clone Demo](https://shopstream.netlify.app/)
 
 # ScreenShots
 
